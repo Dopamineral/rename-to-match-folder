@@ -13,3 +13,6 @@ PROCEED WITH EXTREME CAUTION!!!
 
 MAKE SURE ONLY FOLDERS WITH FILES TO BE RENAMED ARE PRESENT IN SELECTED PATH
 OTHER FILES IN PATH SPACE MIGHT CAUSE ERRORS AND RENAMING TO STOP PREMATURELY
+
+In case something happens, a log file is created which logs all the name changes. 
+it is saved as "renaming_log_<date and time of namechange>.txt"
